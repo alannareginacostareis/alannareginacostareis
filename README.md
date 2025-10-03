@@ -1,4 +1,4 @@
-# Olá, eu sou a [Seu Nome]! 👋
+# Olá, eu sou a Alanna Regina! 👋
 
 ## 🚀 Sobre mim
 Sou uma desenvolvedora front-end em formação, apaixonada por criar interfaces web bonitas e funcionais. Atualmente estou explorando o universo do desenvolvimento web com foco em:
